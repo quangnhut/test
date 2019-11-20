@@ -205,7 +205,6 @@ namespace simplechatapp
             }
         }
 
-       
         //luu vao file
         private void savetofileserver_Click(object sender, EventArgs e)
         {
